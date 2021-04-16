@@ -10,7 +10,7 @@ Ctrl + C keyboard interrupt will stop the executable and python script.
 
 The maximum password length is 74 characters, entering anything above 74 or a character as the desired password length will give an error and stop the script.
 
-Edit line 3 quotation to customize what python asks. ex. passlen = int(input("enter desired password length  "))   -->    passlen = int(input("Enter Password Length   "))
+Edit line 3 quotation to customize what python asks.      ex. passlen = int(input("enter desired password length  "))   -->    passlen = int(input("Enter Password Length   "))
 
 The Windows executable file is simply for machines running Windows that do not have python installed. (The executable will still run with python installed, it's just so you don't have to go install python in order to run this file)
 
