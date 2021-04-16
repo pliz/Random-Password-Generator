@@ -1,3 +1,4 @@
+# deleting while True may result in an error
 while True: 
     import random 
     passlen = int(input("enter desired password length  "))
