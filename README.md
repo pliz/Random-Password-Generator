@@ -8,7 +8,7 @@ Do not delete Line 1 and 8, this will break the loop and the file will not run f
 
 Ctrl + C keyboard interrupt will stop the executable and python script.
 
-The maximum password length is 74 characters, entering anything above 74 or a character as the desired password length will give an error and stop the script.
+The maximum password length is 74 characters, entering anything above 74 or a character as the desired password length will cause the script to display an error and stop the script.
 
 Edit line 3 quotation to customize what python asks.      ex. passlen = int(input("enter desired password length  "))   -->    passlen = int(input("Enter Password Length   "))
 
