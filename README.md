@@ -14,4 +14,4 @@ Edit line 3 quotation to customize what python asks.      ex. passlen = int(inpu
 
 The Windows executable file is simply for machines running Windows that do not have python installed. (The executable will still run with python installed, it's just so you don't have to go install python in order to run this file)
 
-The Windows executable will be immediately flagged as a trojan by Microsoft Windows Defender and 3 others. I can assure you this is a false positive. It seems like executables made with pyinstaller are flagged as viruses by some antiviruses, so please make sure the executable is exempt from Windows Defender before trying to run the executable. A new Windows executable is in the works.
+The Windows executable will be immediately flagged as a trojan by Microsoft Windows Defender and 3 others. I can assure you this is a false positive. It seems like Windows executables made with pyinstaller are flagged as viruses by some antiviruses, so please make sure the executable is exempt from Windows Defender before trying to run the executable. A new Windows executable is in the works.
