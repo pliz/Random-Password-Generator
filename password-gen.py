@@ -5,6 +5,6 @@ while True:
     s="abcdefghijklmnopqrstuvwxyz01234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()?"
     p = "".join(random.sample(s,passlen ))
     print(p)
-# deleting True will result in execution failiure
+# deleting True will result in failiure 
 True 
 
