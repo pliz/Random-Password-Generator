@@ -2,7 +2,7 @@
 
 Any changes made to the password-gen.py file will not be updated in the password generator executable. The executable will need to be remade (install pyinstaller and run command 'pyinstaller  --onefile  password-gen.py') in order for any changes made in the python file to be updated in the executable.
 
-To run Password Generator on Linux, simply run the python file. (run the python script from a shell) A bash script is in the works.
+To run Password Generator on Linux, simply run the python file from a shell. A bash script is in the works.
 
 Do not delete Line 1 and 8, this will break the loop and the file will not run from clicking on the executable. (must be run from a shell)
 
